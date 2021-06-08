@@ -1,58 +1,48 @@
-## Hola, I'm [Kaushik Pal] 👋
+<h1 align="center">Hi 👋, I'm Kaushik Pal</h1>
+<h3 align="center">Aspiring Data Science enthusiastic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaushikpal&label=Views&color=blue&style=plastic" alt="ikaushikpal" /> </p>
-
-<a href="https://twitter.com/kaushikpal2014">
-  <img align="left" alt="Kauhsik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Kauhsik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ikaushikpal">
-  <img align="left" alt="Kaushik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/githubkaushik">
-  <img align="left" alt="Kauhsik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Kaushik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikaushikpal&label=Profile%20views&color=0e75b6&style=flat" alt="ikaushikpal" /> </p>
 
 
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🔭 I’m currently working on JS
-- 🌱 I’m currently learning about React
-- 🤔 I’m looking for help with my projects
-- 💬 Ask me about Web dev
-- 📫 How to reach me: [telegram - Kaushik Pal](https://t.me/githubkaushik)
+- 🌱 I’m currently learning about **Neural Network**
 
-- 😄 i love gaming besides programming
+- 🤔 I’m looking for help with my ML projects
+
+- 💬 Ask me about Machine Learning Concepts
+
+- 📫 How to reach me: **[telegram - Kaushik Pal](https://t.me/githubkaushik)**
+
+- 😄 i love **gaming** besides programming
 - ⚡ i am new in this communities
 
+___
 
 
-**Languages and Tools:**  
+<a href="https://linkedin.com/in/ikaushikpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikaushikpal" height="30" width="40" /></a>
+<a href="https://kaggle.com/kaushikpal2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaushikpal2020" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ikaushikpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ikaushikpal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/kaushikpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kaushikpal/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ikaushikpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ikaushikpal" height="30" width="40" /></a>
+</p>
 
+___
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/ikaushikpal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaushikpal&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ikaushikpal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikaushikpal&show_icons=true&theme=dark&line_height=27" alt="Kaushik's github stats"/>
-</a>
+___
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikaushikpal&show_icons=true&theme=dark&locale=en&layout=compact" alt="ikaushikpal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikaushikpal&show_icons=true&theme=dark&locale=en" alt="ikaushikpal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikaushikpal&theme=dark" alt="ikaushikpal" /></p>
+
+___
 
 <div align="center">
 
-### Happy Coding 👨‍💻
+# Happy Coding 👨‍💻
 
 </div>
